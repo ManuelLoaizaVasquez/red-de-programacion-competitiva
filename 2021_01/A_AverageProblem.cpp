@@ -1,3 +1,5 @@
+//A. Average Problem
+//https://redprogramacioncompetitiva.com/contests/2021/01/team/problem.php
 #include <algorithm>
 #include <iostream>
 #include <vector>
